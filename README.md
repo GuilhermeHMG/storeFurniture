@@ -1,4 +1,4 @@
-### Projeto de uma loja online de venda de móveis novos e seminovos
+### Projeto de uma loja online de venda de móveis novos e seminovos (Sistema ainda em desenvolvimento) 
 
 ## Tecnologias:
 
